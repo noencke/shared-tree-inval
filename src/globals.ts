@@ -1,2 +1,2 @@
-export const DISPLAY_METRICS = true;
-export const MEMOIZE_SQUARES = false;
+export const DISPLAY_METRICS = false;
+export const MEMOIZE_SQUARES = true;
